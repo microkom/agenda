@@ -37,8 +37,7 @@ class Contacto{
 			'<br><br>';
 	}
 /*
-Tomates verdes fritos
-}
+Comentario desde github}
 
 /*
 Comentario de prueba de github
