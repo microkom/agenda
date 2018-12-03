@@ -36,6 +36,8 @@ class Contacto{
 			'<br>Teléfono: '.$this->telefono.
 			'<br><br>';
 	}
-
+/*
+Tomates verdes fritos
+*/
 }
 ?>
