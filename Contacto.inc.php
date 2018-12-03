@@ -38,6 +38,5 @@ class Contacto{
 	}
 /*
 Tomates verdes fritos
-*/
 }
 ?>
